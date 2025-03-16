@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning typescript by creating project
+🌱 I’m currently learning next by creating project
 
 
 ## 🌐 Socials:
