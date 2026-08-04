@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning next by creating project
+💻 Turning ideas into web experiences with React & Next
 
 
 ## 🌐 Socials:
