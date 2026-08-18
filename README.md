@@ -1,18 +1,203 @@
-# 💫 About Me:
-💻 Turning ideas into web experiences with React & Next
+# 👋 Hi, I'm Maryam Salimi
 
+### Front-End Developer | React • Next.js • TypeScript
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maryam-salimi-03910524b) 
+I'm a Front-End Developer focused on building modern, responsive, and user-friendly web applications.
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mrym-salimi-js&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mrym-salimi-js&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrym-salimi-js&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+I enjoy turning ideas into clean and interactive interfaces, building reusable components, and creating scalable front-end architectures.
+
+Currently, I'm collaborating with the **TokDoc team** as a Front-End Developer, working on an educational platform built with modern web technologies.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mrym-salimi-js&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💼 Currently Working With
+
+### 🌳 TokDoc — Front-End Developer
+
+I'm currently collaborating with the **TokDoc team** on an educational platform called **Tree of Knowledge**.
+
+My work mainly focuses on:
+
+* Building and improving user interfaces
+* Developing reusable React components
+* Implementing interactive course experiences
+* Working with Next.js and TypeScript
+* Integrating REST APIs
+* Managing application state and server-side data
+* Improving performance and user experience
+* Developing responsive interfaces for different devices
+
+---
+
+## 🧑‍💻 About Me
+
+* 💻 Front-End Developer focused on **React & Next.js**
+* ⚛️ Experienced in building reusable and scalable UI components
+* 🎨 Passionate about clean, responsive and user-friendly interfaces
+* 🔌 Experienced with REST APIs and API integration
+* 🧠 Familiar with backend development using Node.js & Express
+* 🗄️ Experience working with MongoDB and databases
+* 📱 Interested in Progressive Web Apps and modern web technologies
+* 🌱 Currently expanding my knowledge of **Python & Django**
+* 🚀 Always learning and building new projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Front-End
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+`HTML` `CSS` `JavaScript` `TypeScript`
+`React` `Next.js` `Tailwind CSS` `Shadcn/ui`
+`React Query` `Zustand` `React Hook Form`
+`Zod` `Framer Motion` `D3.js`
+
+### ⚙️ Back-End & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django,python" />
+</p>
+
+`Node.js` `Express.js` `Django` `Python`
+`REST APIs` `MongoDB`
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel" />
+</p>
+
+`Git` `GitHub` `Vercel` `Render` `Liara`
+`MongoDB Atlas`
+
+---
+
+# 🚀 Featured Projects
+
+## 🏠 Sheypoorchi
+
+A classifieds platform built with React, featuring user authentication, advertisements, image management, search, filtering and messaging.
+
+### Features
+
+* 🔐 User authentication
+* 📢 Advertisement management
+* 🖼️ Image upload & management
+* 🔎 Search & filtering
+* 💬 Messaging system
+* 🔌 REST API integration
+* 🗄️ MongoDB database
+* 📱 Responsive design
+
+### Tech Stack
+
+`React` `JavaScript` `Tailwind CSS`
+`Node.js` `Express.js` `MongoDB`
+
+🔗 [View Repository](https://github.com/mrym-salimi-js/sheypoorchi)
+
+---
+
+## 🌳 TokDoc — Tree of Knowledge
+
+An educational platform where courses are organized into interactive **knowledge trees**.
+
+I'm currently collaborating with the **TokDoc team** as a Front-End Developer on this project.
+
+### Features
+
+* 🌳 Interactive knowledge tree
+* 📚 Course & lesson management
+* 📝 Exercises and quizzes
+* 📊 User progress tracking
+* 💬 Lesson discussions
+* 🌓 Dark mode
+* 📱 Responsive interface
+* 📲 PWA capabilities
+
+### Tech Stack
+
+`Next.js` `React` `TypeScript`
+`Tailwind CSS` `Shadcn/ui`
+`React Query` `Zustand` `D3.js`
+`Django REST API`
+
+---
+
+## 📚 Language Tool
+
+A modern language-learning application designed to extract and organize learning content from PDFs and images.
+
+### Features
+
+* 📄 PDF & image upload
+* 🔤 Text extraction
+* 🧠 Flashcard generation
+* 📱 Progressive Web App
+* 📅 Persian/Shamsi calendar
+* 🎨 Responsive UI
+
+### Tech Stack
+
+`Next.js` `TypeScript`
+`Tailwind CSS` `Shadcn/ui`
+`PWA`
+
+---
+
+# 🎯 Current Focus
+
+```text
+Frontend Development
+        ↓
+React & Next.js
+        ↓
+TypeScript
+        ↓
+Advanced Frontend Architecture
+        ↓
+Performance & UX
+        ↓
+PWA & Modern Web Technologies
+```
+
+I'm currently focusing on:
+
+* ⚛️ Advanced React & Next.js
+* 🧩 Front-End architecture
+* 🏗️ Scalable and reusable component systems
+* ⚡ Web performance optimization
+* 📱 Progressive Web Apps
+* 🐍 Python & Django
+* 🔌 API design and integration
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrym-salimi-js&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrym-salimi-js&layout=compact&theme=transparent" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+  <a href="https://github.com/mrym-salimi-js">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/maryam-salimi-03910524b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🚀 Building interfaces. Solving problems. Learning every day.
