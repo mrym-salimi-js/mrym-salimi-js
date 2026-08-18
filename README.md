@@ -55,18 +55,11 @@ My work mainly focuses on:
 `React Query` `Zustand` `React Hook Form`
 `Zod` `Framer Motion` `D3.js`
 
-### ⚙️ Back-End & Database
+### ⚙️ Backend Experience
 
-`REST APIs` `MongoDB`
+While my main focus is Front-End Development, I've also worked with backend technologies to build APIs, integrate databases, and understand the complete application flow.
 
-### 🔧 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel" />
-</p>
-
-`Git` `GitHub` `Vercel` `Render` `Liara`
-`MongoDB Atlas`
+`Node.js` `Express.js` `REST APIs` `MongoDB`
 
 ---
 
