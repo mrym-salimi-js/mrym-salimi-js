@@ -38,7 +38,6 @@ My work mainly focuses on:
 * 🧠 Familiar with backend development using Node.js & Express
 * 🗄️ Experience working with MongoDB and databases
 * 📱 Interested in Progressive Web Apps and modern web technologies
-* 🌱 Currently expanding my knowledge of **Python & Django**
 * 🚀 Always learning and building new projects
 
 ---
@@ -58,11 +57,6 @@ My work mainly focuses on:
 
 ### ⚙️ Back-End & Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,django,python" />
-</p>
-
-`Node.js` `Express.js` `Django` `Python`
 `REST APIs` `MongoDB`
 
 ### 🔧 Tools & Platforms
