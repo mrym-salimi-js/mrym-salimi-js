@@ -2,6 +2,8 @@
 
 ### Front-End Developer | React • Next.js • TypeScript
 
+🌐 **Portfolio:** [maryamsalimi.dev](https://my-portfolio-alpha-red-91.vercel.app/)
+
 I'm a Front-End Developer focused on building modern, responsive, and user-friendly web applications.
 
 I enjoy turning ideas into clean and interactive interfaces, building reusable components, and creating scalable front-end architectures.
